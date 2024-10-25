@@ -25,7 +25,7 @@ Este é o projeto desenvolvido para o trabalho da faculdade, utilizando **Python
 
 ### Passo a Passo para Rodar o Projeto
 **1. Clone o Repositório**
-- git clone https://github.com/steinth/projeto-mysql.git
+- git clone https://github.com/GuiNakaHttps/projeto-mysql.git
 - cd seu-repositorio
   
 **2. Instale as Dependências**
